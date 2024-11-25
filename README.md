@@ -9,7 +9,7 @@ aim to investigate co-authorship patterns to uncover interdisciplinary collabora
 how different research fields are interconnected through joint efforts.
 
 ## 📂 Repository Structure
-- **`code/`**: Contains the Python scripts used in the analysis.
+- **`code/`**: Contains the Python Jupyter Notebook used in the analysis.
 - **`docs/`**: Includes the PDF of the research paper.
 
 ## 📖 Paper
