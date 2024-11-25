@@ -13,5 +13,5 @@ how different research fields are interconnected through joint efforts.
 - **`docs/`**: Includes the PDF of the research paper.
 
 ## 📖 Paper
-The research paper for this project is available in the [`docs`](docs) folder or can be downloaded directly:
+The research paper for this project is available in the [`docs`](docs) folder or can be downloaded directly from Google Drive:
 [Download Paper (PDF)](https://drive.google.com/file/d/1E6ClIu7D9DX3avWN-Pb-8YVfsuP66fiM/view?usp=sharing)
