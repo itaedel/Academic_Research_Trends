@@ -10,7 +10,7 @@ how different research fields are interconnected through joint efforts.
 
 ## 📂 Repository Structure
 - **`code/`**: Contains the Python Jupyter Notebook used in the analysis.
-- **`docs/`**: Includes the PDF of the research paper.
+- **`docs/`**: Includes the research paper in PDF format.
 
 ## 📖 Paper
 The research paper for this project is available in the [`docs`](docs) folder or can be downloaded directly from Google Drive:
